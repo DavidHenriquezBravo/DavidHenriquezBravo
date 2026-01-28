@@ -15,11 +15,6 @@ I am a fourth-year Computer Science Engineering student with a strong interest i
   - React js
 - Outside tech, I enjoy watching anime, listening to music, watching streams, and spending time on YouTube.
 - 📫 Reach out to me at: <a href="david.henriquez.bravo@gmail.com">david.henriquez.bravo@gmail.com</a>
-- 
--
-
-
-
 
 # 💻 Tech Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
